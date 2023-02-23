@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Oliveira</h1>
-<h3 align="center">Study html/css</h3>
+<h3 align="center">Study html/css/JavaScript/React</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
